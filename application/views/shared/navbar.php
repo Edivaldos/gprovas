@@ -2,7 +2,7 @@
     <div class="container">
         <a class="navbar-brand" href="#">
             <img src="<?=base_url()?>images/logo-ifg-vertical.png" width="25" height="30" class="d-inline-flex align-top" alt="">
-            IFG Luzi‚nia
+            IFG Luzi√¢nia
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -15,7 +15,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="<?=base_url()?>sobre">Sobre</a>
+                    <a class="nav-link" href="<?=base_url()?>"sobre>Sobre</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="<?=base_url()?>manuais">Manual do Sistema</a>
